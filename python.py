@@ -1,0 +1,8 @@
+name = print("Whats your name? / ")
+input(f"Ok, {name}")
+print("Are you serious? / ")
+input("Ok, fine")
+input("Press enter to leave")
+input("You cant leave")
+print("Are you fearful? / ")
+input("You beat me")
